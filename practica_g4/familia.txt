@@ -1,0 +1,5 @@
+1:papá
+2:mamá
+3:hermano
+4:perro
+5:tio 

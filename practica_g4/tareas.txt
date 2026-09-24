@@ -1,0 +1,5 @@
+1:lavar platos
+2:lavar ropa
+3:linpiar mi casa
+4:linpiar a mi cuarto
+5:linpiar la cosina

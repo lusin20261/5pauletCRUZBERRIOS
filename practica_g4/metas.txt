@@ -1,0 +1,6 @@
+1:ser futbolista
+2:ser profe
+3:ir a españa
+4:ir a italy
+5:ir a argentina
+
